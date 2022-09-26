@@ -13,7 +13,6 @@ const Reacte=()=>{
                                 <h3 className="texto">{informacion.react}</h3>
                             </div>
                             <div>
-                                <p className="carta2">{informacion.info4}</p>    
                             </div>
                         </div>
                     ))

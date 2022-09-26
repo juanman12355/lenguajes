@@ -12,9 +12,6 @@ const Python=()=>{
                                 <img src={informacion.img2}/>
                                 <h3 className="texto">{informacion.python}</h3>
                             </div>
-                            <div>
-                                <p className="carta2">{informacion.info2}</p>    
-                            </div>
                         </div>
                     ))
                 }

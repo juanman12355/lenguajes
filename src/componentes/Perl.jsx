@@ -12,9 +12,6 @@ const Perl=()=>{
                                 <img src={informacion.img3}/>
                                 <h3 className="texto">{informacion.perl}</h3>
                             </div>
-                            <div>
-                                <p className="carta2">{informacion.info3}</p>    
-                            </div>
                         </div>
                     ))
                 }
