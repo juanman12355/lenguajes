@@ -10,7 +10,9 @@ const Java=()=>{
                         <div>
                             <div>
                                 <img src={informacion.img1}/>
-                                <h3 className="texto">{informacion.java}</h3>
+                                <div className="texto">
+                                    <h3>{informacion.java}</h3>
+                                </div>
                             </div>
                         </div>
                     ))

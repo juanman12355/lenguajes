@@ -8,23 +8,29 @@
 .card{
     border:3px solid lightblue;
     display: flex;
-    width: 300px;
-    margin: 10px 70px;
+    float: right;
+    width: 250px;
+    margin: 20px 60px;
     border-radius: 20px;
-    box-shadow: 3px 3px 3px 3px lightgreen;
+    
 }
 
 .texto{
     font-size: 40px;
     padding: 4px;
-    text-align: center;
+    text-align: right;
 	color: white;
 	text-shadow: 5px 5px orange;
+    display: flex;
+    justify-content: right;
+    float: right;
 }   
 
 img{
-    width: 55%;
+    width: 30%;
     padding: 5px;
+    justify-content: left;
+    float: left;
 }
 
 .cont2{display:none}
